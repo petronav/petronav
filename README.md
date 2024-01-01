@@ -2,13 +2,13 @@
 ### меня зовут аркистарвх !!
 
 
-🌱 I’m currently searching for intern opportunities in US
+🌱 I’m currently searching for intern opportunities (US) in
  - [X] Machine Learning
  - [X] Artificial Intelligence
  - [X] Data Science
 
 
-📫 Mail me: [petronav73939133@gmail.com](mailto:petronav73939133@gmail.com)
+📫 Mail: [petronav73939133@gmail.com](mailto:petronav73939133@gmail.com)
 
 
 <!--
