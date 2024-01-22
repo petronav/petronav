@@ -1,8 +1,7 @@
-# привет 👋
-### меня зовут аркистарвх !!
+# Hi 👋
 
 
-🌱 I’m currently searching for intern opportunities (US) in
+🌱 I’m currently searching for internships (US) in
  - [X] Machine Learning
  - [X] Artificial Intelligence
  - [X] Data Science
